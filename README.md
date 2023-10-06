@@ -9,8 +9,6 @@ Welcome to the Contact Management App repository! This application allows users 
 - [API Endpoints](#api-endpoints)
 - [Authentication](#authentication)
 - [Database](#database)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -38,7 +36,7 @@ Before you begin, ensure you have met the following requirements:
    git clone https://github.com/Vidyadhar10/Contact-Management-App.git
 2. Install project dependencies:
    ```bash
-   cd contact-management-app
+   cd Contact-Management-App
    npm install
 3. Configure environment variables:
    Create a .env file in the root directory of the project and set the following environment
